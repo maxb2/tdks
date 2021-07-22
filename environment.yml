@@ -1,0 +1,5 @@
+name: ffmpeg
+channels:
+  - defaults
+dependencies:
+  - ffmpeg
